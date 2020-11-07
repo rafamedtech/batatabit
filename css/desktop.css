@@ -1,0 +1,9 @@
+.main-exchange-container {
+    display: flex;
+}
+
+header img {
+    align-self: center;
+    width: 288px;
+    height: 36px;
+}
