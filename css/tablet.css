@@ -15,3 +15,12 @@
     justify-content: center;
     overflow-x: hidden;
 }
+
+.header--title-container h1 {
+    font-size: 3.8rem;
+    line-height: 4.3rem;
+}
+
+.header--title-container p {
+    font-size: 1.8rem;
+}
